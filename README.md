@@ -1,6 +1,6 @@
 # Project-1-Team-2
 
-# Project Title: Who’s up for a movie?
+# Who’s up for a movie?
 
 Team Members: Sunday Akiyesi, Benjamin Kidston, Kate (Xuan) Liu, Jane Enkhbaatar, Natasha Girdharry 
 
