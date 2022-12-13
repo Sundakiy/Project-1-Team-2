@@ -17,7 +17,7 @@ Evaluate the length of average movie times based on genre and audience rating sy
 # Research Questions
 1. Have the average movie duration changed between 1942 to 2022? and what is the average length of a movie today? 
 
-# Movie Production has increased Between 1942 to 2022 
+# Increase Library of Movies from 2000 
 <img width="444" alt="Screen Shot 2022-12-12 at 10 40 30 AM" src="https://user-images.githubusercontent.com/115658965/207088234-d4877ad3-99c8-47b6-921c-593c107e3dfc.png">
 
 # No Change in Average Duration between 1942-1952 and 2013-2022 
