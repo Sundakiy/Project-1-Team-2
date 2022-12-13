@@ -35,7 +35,7 @@ Therefore, the average movie duration is 99 +/- 29.5 minutes. The longest movie 
 
 <img width="391" alt="Screen Shot 2022-12-12 at 10 43 52 AM" src="https://user-images.githubusercontent.com/115658965/207089317-095d7776-a9c8-4f19-b8a7-965089dc6d7a.png">
 
-The most popular genres in our dataset were Drama and Comedy, and the least common were Sci-Fi and Crime movies. 
+The most popular genres in our dataset were Drama and Comedy, and the least common were Sci-Fi and Crime movies. Top 6 genre took 93% of total dataset. 
 
 # Average Duration of Movie Varies with Genre
 <img width="418" alt="Screen Shot 2022-12-12 at 10 44 47 AM" src="https://user-images.githubusercontent.com/115658965/207089586-e99d2546-4bc1-4ede-addb-9c8d62fa06de.png">
