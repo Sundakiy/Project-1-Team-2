@@ -17,7 +17,7 @@ Evaluate the length of average movie times based on genre and audience rating sy
 # Research Questions
 1. Have the average movie duration changed between 1942 to 2022? and what is the average length of a movie today? 
 
-# Increased Library/Purchases of Movies from 2000s in Netflix
+# Movie Production has increased Between 1942 to 2022 
 <img width="444" alt="Screen Shot 2022-12-12 at 10 40 30 AM" src="https://user-images.githubusercontent.com/115658965/207088234-d4877ad3-99c8-47b6-921c-593c107e3dfc.png">
 
 # No Change in Average Duration between 1942-1952 and 2013-2022 
@@ -81,7 +81,7 @@ Categories of movies are sorted by first given genre
 Audience Ratings sorted by Canadian Metrics
 
 # Requirements 
-MatPlotLib and Pandas Python libraries in Jupyter notebook. 
+MatPlotLib Pyplot and Animation, Pandas, Numpy, and Scipy.stats Python libraries in Jupyter notebook. 
 
 # Credits 
 Thank you to EdX and the University of Toronto's School of Continuing Studies for their support. All participants contributed equally to this project. 
