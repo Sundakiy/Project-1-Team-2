@@ -40,7 +40,7 @@ The most popular genres in our dataset were Drama and Comedy, and the least comm
 # Average Duration of Movie Varies with Genre
 <img width="418" alt="Screen Shot 2022-12-12 at 10 44 47 AM" src="https://user-images.githubusercontent.com/115658965/207089586-e99d2546-4bc1-4ede-addb-9c8d62fa06de.png">
 
-We identified a statistically significant difference between the longest genre (crime) in movie durations and the shortest (Family) suggesting that the average duration of a movie may vary depending on the genre. Further analysis is required to further identiy these relationships. 
+We identified a statistically significant difference between the longest genre (crime) in movie durations and the shortest (Family) suggesting that the average duration of a movie may vary depending on the genre. The ANOVA test (one-way) gave us 19.7 as result to proof of our hypothesis.
 
 # Trends in Movie Duration Vary Across Our top 6 Genres Over time
 
